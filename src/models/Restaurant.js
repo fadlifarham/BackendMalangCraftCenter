@@ -49,15 +49,15 @@ const RestaurantSchema = new mongoose.Schema({
     {
       type: String,
       enum: [
-        "Homemade",
-        "Barbecue",
-        "Fast-Food",
-        "Pasta",
-        "Pizza",
-        "Dessert",
-        "Japanese",
-        "Salad",
-        "Seafood"
+        "Sepatu",
+        "Sandal",
+        "Tas",
+        "Kaos",
+        "Woodcraft",
+        "Perhiasan",
+        "Batik",
+        "Keramik",
+        "Handicraft"
       ],
       required: true
     }

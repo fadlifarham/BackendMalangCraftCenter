@@ -24,15 +24,15 @@ const DishSchema = new mongoose.Schema({
   type: {
     type: String,
     enum: [
-      "Barbecue",
-      "Dessert",
-      "Fast-Food",
-      "Homemade",
-      "Japanese",
-      "Pasta",
-      "Pizza",
-      "Salad",
-      "Seafood"
+      "Sepatu",
+      "Sandal",
+      "Tas",
+      "Kaos",
+      "Woodcraft",
+      "Perhiasan",
+      "Batik",
+      "Keramik",
+      "Handicraft"
     ],
     required: true
   },
