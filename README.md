@@ -1,27 +1,7 @@
 
-# Bon-Appetit-Server
+# Backend Malang Craft Center
 
-This is the back-end of the [Bon-Appetit App](https://github.com/steniowagner/bon-appetit-app). It's a RESTful API built with NodeJS, that serves all the static data that the App needs.
-
-## About this Project
-
-This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
-
-  
-
-Email-me: stenio.wagner1@gmail.com
-
-  
-
-Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/)
-
-  
-
-Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
-
-  
-
-It's free!
+It's a RESTful API built with NodeJS, that serves all the static data that the App needs.
 
 ## Getting Started
 
@@ -34,9 +14,9 @@ To run this project in the development mode, you'll need to have a basic environ
 **Cloning the Repository**
 
 ```
-$ https://github.com/steniowagner/bon-appetit-server
+$ git clone https://github.com/fadli7/BackendMalangCraftCenter.git
 
-$ cd bon-appetit-server
+$ cd BackendMalangCraftCenter
 ```
 
 **Installing dependencies**
@@ -74,7 +54,7 @@ After run the server, [populate the Database](#data-management).
 
 ## Routes
 
-The base URL is: http://localhost:3001/bon-appetit/api/v1
+The base URL is: http://localhost:3001/BackendMalangCraftCenter/api/v1
 
 ### Test Route
 
